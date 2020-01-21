@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Snowman
+Comment=Snowman port
+Exec=snowman.dge
+Icon=snowman
+Categories=games;

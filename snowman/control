@@ -1,0 +1,10 @@
+Package: snowman
+Version: 
+Description: RetroFW port of Snowman
+Section: emus
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/snowman
+Depends:
+Source: https://github.com/retrofw/snowman

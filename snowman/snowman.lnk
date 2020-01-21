@@ -1,0 +1,4 @@
+title=Snowman
+description=Snowman port
+exec=/home/retrofw/games/snowman/snowman.elf
+clock=600
